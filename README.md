@@ -13,7 +13,7 @@ Este é um script de console em Python desenvolvido para baixar vídeos e áudio
 * **Tratamento de Links:** Foca no vídeo principal e ignora playlists automaticamente para evitar downloads indesejados.
 * **Nomenclatura Automática:** Salva os arquivos com o título original do vídeo, removendo caracteres inválidos.
 
-## 📋 Pré-requisitos
+##  Pré-requisitos
 
 Antes de executar este projeto, certifique-se de que você tem os seguintes softwares instalados em seu sistema:
 
