@@ -1,9 +1,6 @@
 # Chiculol-Downloader
 Downloader para aqueles que tem preguiça de ir em sites esquisitos ou programas esquisitos (Se bem que o meu é esquisito mas é pq é meu pimeiro mas vai da certo tlgd), espero que seja útil! ^^
 
-# Sites Suportados
-Este programa utiliza o yt-dlp como motor, o que o torna compatível com centenas de sites. Embora a lista completa seja gigantesca, aqui estão alguns dos sites mais populares com os quais ele funciona perfeitamente:
-
 # Downloader de Vídeos e Áudios 
 
 Este é um script de console em Python desenvolvido para baixar vídeos e áudios , oferecendo controle sobre a qualidade desejada. O projeto utiliza a biblioteca `yt-dlp` para uma interação robusta e atualizada com o YouTube.
