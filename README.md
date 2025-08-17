@@ -48,9 +48,9 @@ PalcoMP3
 
 e muitos outros...
 
-# Downloader de Vídeos e Áudios do YouTube 
+# Downloader de Vídeos e Áudios 
 
-Este é um script de console em Python desenvolvido para baixar vídeos e áudios do YouTube, oferecendo controle sobre a qualidade desejada. O projeto utiliza a biblioteca `yt-dlp` para uma interação robusta e atualizada com o YouTube.
+Este é um script de console em Python desenvolvido para baixar vídeos e áudios , oferecendo controle sobre a qualidade desejada. O projeto utiliza a biblioteca `yt-dlp` para uma interação robusta e atualizada com o YouTube.
 
 ##  Funcionalidades
 
