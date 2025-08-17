@@ -1,5 +1,5 @@
-# Chiculol-YT-Downloader
-YT downloader para aqueles que tem preguiça de ir em sites esquisitos ou programas esquisitos (Se bem que o meu é esquisito mas é pq é meu pimeiro mas vai da certo tlgd), epero que seja útil! ^^
+# Chiculol-Downloader
+Downloader para aqueles que tem preguiça de ir em sites esquisitos ou programas esquisitos (Se bem que o meu é esquisito mas é pq é meu pimeiro mas vai da certo tlgd), epero que seja útil! ^^
 
 # Sites Suportados
 Este programa utiliza o yt-dlp como motor, o que o torna compatível com centenas de sites. Embora a lista completa seja gigantesca, aqui estão alguns dos sites mais populares com os quais ele funciona perfeitamente:
