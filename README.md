@@ -4,50 +4,6 @@ Downloader para aqueles que tem preguiça de ir em sites esquisitos ou programas
 # Sites Suportados
 Este programa utiliza o yt-dlp como motor, o que o torna compatível com centenas de sites. Embora a lista completa seja gigantesca, aqui estão alguns dos sites mais populares com os quais ele funciona perfeitamente:
 
-# Principais Plataformas de Vídeo
-YouTube (incluindo Shorts, Playlists e Canais)
-
-- Vimeo
-
-- Dailymotion
-
-- Bilibili
-
-Redes Sociais
-- Facebook
-
-- Twitter / X
-
-- Instagram (Vídeos, Stories, Reels)
-
-- TikTok
-
-- Reddit (Vídeos hospedados)
-
-- Pinterest
-
-Streaming e Notícias
-- Twitch (Clipes e VODs)
-
-- Globo (G1, Globoplay)
-
-- CNN
-
-- BBC
-
-Áudio e Música
-- SoundCloud
-
-- Bandcamp
-
-- Mixcloud
-
-- PalcoMP3
-
-Conteúdos adultos
-
-e muitos outros...
-
 # Downloader de Vídeos e Áudios 
 
 Este é um script de console em Python desenvolvido para baixar vídeos e áudios , oferecendo controle sobre a qualidade desejada. O projeto utiliza a biblioteca `yt-dlp` para uma interação robusta e atualizada com o YouTube.
@@ -114,6 +70,49 @@ Para executar o script, siga os passos abaixo no seu terminal (como o Terminal d
 
 4.  **Siga as instruções na tela:**
     * O programa irá primeiro pedir o link do vídeo. Cole a URL e pressione `Enter`.
+    *  Principais Plataformas de Vídeo
+- YouTube (incluindo Shorts, Playlists e Canais)
+
+- Vimeo
+
+- Dailymotion
+
+- Bilibili
+
+Redes Sociais
+- Facebook
+
+- Twitter / X
+
+- Instagram (Vídeos, Stories, Reels)
+
+- TikTok
+
+- Reddit (Vídeos hospedados)
+
+- Pinterest
+
+Streaming e Notícias
+- Twitch (Clipes e VODs)
+
+- Globo (G1, Globoplay)
+
+- CNN
+
+- BBC
+
+Áudio e Música
+- SoundCloud
+
+- Bandcamp
+
+- Mixcloud
+
+- PalcoMP3
+
+Conteúdos adultos
+
+e muitos outros...
     * Em seguida, ele analisará o vídeo e exibirá uma lista de todos os formatos e qualidades disponíveis, cada um com um `ID`.
     * Analise a lista e decida qual formato baixar. As instruções na tela te guiarão sobre como fazer a escolha (baixar apenas um ID, combinar um ID de vídeo e áudio, ou simplesmente pressionar `Enter` para a melhor qualidade).
     * Após fazer sua escolha, o download começará automaticamente.
