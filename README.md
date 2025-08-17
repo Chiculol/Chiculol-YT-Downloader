@@ -13,7 +13,7 @@ YouTube (incluindo Shorts, Playlists e Canais)
 
 - Bilibili
 
-* Redes Sociais
+Redes Sociais
 - Facebook
 
 - Twitter / X
@@ -26,7 +26,7 @@ YouTube (incluindo Shorts, Playlists e Canais)
 
 - Pinterest
 
-* Streaming e Notícias
+Streaming e Notícias
 - Twitch (Clipes e VODs)
 
 - Globo (G1, Globoplay)
@@ -35,7 +35,7 @@ YouTube (incluindo Shorts, Playlists e Canais)
 
 - BBC
 
-* Áudio e Música
+Áudio e Música
 - SoundCloud
 
 - Bandcamp
@@ -44,7 +44,7 @@ YouTube (incluindo Shorts, Playlists e Canais)
 
 - PalcoMP3
 
-* Conteúdos adultos
+Conteúdos adultos
 
 e muitos outros...
 
