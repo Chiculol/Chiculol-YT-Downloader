@@ -5,7 +5,7 @@ YT downloader para aqueles que tem preguiça de ir em sites esquisitos ou progra
 
 Este é um script de console em Python desenvolvido para baixar vídeos e áudios do YouTube, oferecendo controle sobre a qualidade desejada. O projeto utiliza a biblioteca `yt-dlp` para uma interação robusta e atualizada com o YouTube.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 * **Listagem de Formatos:** Exibe uma lista detalhada de todas as qualidades de vídeo e áudio disponíveis para um determinado link.
 * **Seleção de Qualidade:** Permite ao usuário escolher um formato específico de vídeo, áudio, ou uma combinação de ambos para obter a melhor qualidade.
@@ -13,7 +13,7 @@ Este é um script de console em Python desenvolvido para baixar vídeos e áudio
 * **Tratamento de Links:** Foca no vídeo principal e ignora playlists automaticamente para evitar downloads indesejados.
 * **Nomenclatura Automática:** Salva os arquivos com o título original do vídeo, removendo caracteres inválidos.
 
-## 📋 Pré-requisitos
+##  Pré-requisitos
 
 Antes de executar este projeto, certifique-se de que você tem os seguintes softwares instalados em seu sistema:
 
@@ -22,7 +22,7 @@ Antes de executar este projeto, certifique-se de que você tem os seguintes soft
     * **Download:** [FFmpeg Official Builds](https://www.gyan.dev/ffmpeg/builds/)
     * **Instalação:** É crucial que o `ffmpeg` esteja no PATH do seu sistema para que o script possa encontrá-lo.
 
-## 🚀 Instalação e Configuração
+##  Instalação e Configuração
 
 Siga os passos abaixo para configurar o ambiente e rodar o projeto.
 
@@ -45,7 +45,7 @@ Siga os passos abaixo para configurar o ambiente e rodar o projeto.
     pip install -r requirements.txt
     ```
 
-## 💻 Como Usar
+##  Como Usar
 
 Para executar o script, siga os passos abaixo no seu terminal (como o Terminal do PyCharm ou o Prompt de Comando do Windows).
 
