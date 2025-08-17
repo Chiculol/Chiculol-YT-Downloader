@@ -12,6 +12,7 @@ Este é um script de console em Python desenvolvido para baixar vídeos e áudio
 * **Download Inteligente:** Utiliza o FFmpeg para juntar os melhores streams de vídeo e áudio que o YouTube oferece separadamente.
 * **Tratamento de Links:** Foca no vídeo principal e ignora playlists automaticamente para evitar downloads indesejados.
 * **Nomenclatura Automática:** Salva os arquivos com o título original do vídeo, removendo caracteres inválidos.
+* **Sites suportados:** A lista de sites suportados é gigantesca, as principais plaatformas de vídeo e audio (twitch,youtube,twitter,tiktok,instagram,etc..) estão presentes na lista. Em caso de dúvida se o site funciona ou não no programa, tente.
 
 ##  Pré-requisitos
 
