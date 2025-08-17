@@ -67,7 +67,8 @@ Para executar o script, siga os passos abaixo no seu terminal (como o Terminal d
 
 4.  **Siga as instruções na tela:**
     * O programa irá primeiro pedir o link do vídeo. Cole a URL e pressione `Enter`.
-    *  Principais Plataformas de Vídeo
+      
+     Principais Plataformas de Vídeo
 - YouTube (incluindo Shorts, Playlists e Canais)
 
 - Vimeo
