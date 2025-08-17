@@ -4,45 +4,45 @@ Downloader para aqueles que tem preguiça de ir em sites esquisitos ou programas
 # Sites Suportados
 Este programa utiliza o yt-dlp como motor, o que o torna compatível com centenas de sites. Embora a lista completa seja gigantesca, aqui estão alguns dos sites mais populares com os quais ele funciona perfeitamente:
 
-* Principais Plataformas de Vídeo
+# Principais Plataformas de Vídeo
 YouTube (incluindo Shorts, Playlists e Canais)
 
-Vimeo
+- Vimeo
 
-Dailymotion
+- Dailymotion
 
-Bilibili
+- Bilibili
 
 * Redes Sociais
-Facebook
+- Facebook
 
-Twitter / X
+- Twitter / X
 
-Instagram (Vídeos, Stories, Reels)
+- Instagram (Vídeos, Stories, Reels)
 
-TikTok
+- TikTok
 
-Reddit (Vídeos hospedados)
+- Reddit (Vídeos hospedados)
 
-Pinterest
+- Pinterest
 
 * Streaming e Notícias
-Twitch (Clipes e VODs)
+- Twitch (Clipes e VODs)
 
-Globo (G1, Globoplay)
+- Globo (G1, Globoplay)
 
-CNN
+- CNN
 
-BBC
+- BBC
 
 * Áudio e Música
-SoundCloud
+- SoundCloud
 
-Bandcamp
+- Bandcamp
 
-Mixcloud
+- Mixcloud
 
-PalcoMP3
+- PalcoMP3
 
 * Conteúdos adultos
 
