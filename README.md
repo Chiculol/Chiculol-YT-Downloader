@@ -4,7 +4,7 @@ YT downloader para aqueles que tem preguiça de ir em sites esquisitos ou progra
 # Sites Suportados
 Este programa utiliza o yt-dlp como motor, o que o torna compatível com centenas de sites. Embora a lista completa seja gigantesca, aqui estão alguns dos sites mais populares com os quais ele funciona perfeitamente:
 
-Principais Plataformas de Vídeo
+* Principais Plataformas de Vídeo
 YouTube (incluindo Shorts, Playlists e Canais)
 
 Vimeo
@@ -13,7 +13,7 @@ Dailymotion
 
 Bilibili
 
-Redes Sociais
+* Redes Sociais
 Facebook
 
 Twitter / X
@@ -26,7 +26,7 @@ Reddit (Vídeos hospedados)
 
 Pinterest
 
-Streaming e Notícias
+* Streaming e Notícias
 Twitch (Clipes e VODs)
 
 Globo (G1, Globoplay)
@@ -35,7 +35,7 @@ CNN
 
 BBC
 
-Áudio e Música
+* Áudio e Música
 SoundCloud
 
 Bandcamp
@@ -44,7 +44,7 @@ Mixcloud
 
 PalcoMP3
 
-Conteúdos adultos
+* Conteúdos adultos
 
 e muitos outros...
 
